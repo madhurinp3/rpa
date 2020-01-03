@@ -1,0 +1,6 @@
+<Project>
+  <DoNotRunDesignComponentIds>
+    <Automator-8D7637AAAB00D8B />
+    <WindowsAdapter-8D7637AB5167B4A />
+  </DoNotRunDesignComponentIds>
+</Project>

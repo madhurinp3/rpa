@@ -1,0 +1,8 @@
+<DeploymentManifest version="5.0">
+  <CompositeStudioProject name="CRMrecorder" fileName="CRMrecorder.dll" assemblyName="CRMrecorder.dll" id="Project-8D7637AAAFC7FE4" version="19.1.2.0" deploymentVersion="1.0" configuration="" createdWith="Build" obfuscated="False" runtime="True" digest="6769B63259BB4A4A7AE521763D0CBC7499222F">
+    <Assemblies>
+      <Assembly value="CRMrecorder.dll" digest="17D7A3C587E847913C70B57D67C44BC146AB59" />
+      <Assembly value="CRMrecorder.pdb" digest="08A4B8F5604A3EC5D033627AA6D9CBFA75FD57" />
+    </Assemblies>
+  </CompositeStudioProject>
+</DeploymentManifest>
